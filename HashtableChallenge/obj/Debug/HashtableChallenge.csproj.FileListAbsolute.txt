@@ -1,0 +1,7 @@
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\bin\Debug\HashtableChallenge.exe.config
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\bin\Debug\HashtableChallenge.exe
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\bin\Debug\HashtableChallenge.pdb
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\obj\Debug\HashtableChallenge.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\obj\Debug\HashtableChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\obj\Debug\HashtableChallenge.exe
+C:\Users\Mikey\Desktop\C#\HashtableChallenge\HashtableChallenge\obj\Debug\HashtableChallenge.pdb
